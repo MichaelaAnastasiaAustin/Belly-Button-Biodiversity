@@ -1,0 +1,14 @@
+
+.jumbotron {
+  background-image: url("../images/dna_image.jpeg");
+  background-size: 100% 100%;
+  text-align: center;
+  }
+
+  h1 {
+    color: white !important;
+  }
+  p {
+    color: white !important;
+  }
+  
