@@ -124,9 +124,11 @@ var gaugeArray = metadata.filter(metaObj => metaObj.id == sample);
 
 // 2. Create a variable that holds the first sample in the metadata array.
   var gaugeResult = gaugeArray[0];
+  console.log(gaugeResult)
 
 // 3. Create a variable that holds the washing frequency.  
-var washingFreq = gaugeResult.washingFreq;
+var washingFreq = gaugeResult.wfreq;
+console.log(washingFreq) 
 
 // 4. Create the trace for the gauge chart.
 var gaugeData = [
