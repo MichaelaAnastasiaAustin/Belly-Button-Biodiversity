@@ -34,5 +34,15 @@ Deliverable 3: Create a Gauge Chart
 Deliverable 4: Customize the Dashboard
 - Finally, we customized the dashboard by 1) adding a background image to the jumbotron, 2) adding a background color to the webpage, and 3) adding a custom font color using the "!important" rule, so that the header text was more readable.
 
+
+
 ## Summary
+The customized dashboard can be accessed at: https://michaelaanastasiaaustin.github.io/Belly-Button-Biodiversity/ 
+
+When the webpage loads, you can select a "Test Subject ID No." Then, the webpage will automatically refresh and each chart will show data aligning with the new sample is selected. See images below for example:
+
+![ID940](https://github.com/MichaelaAnastasiaAustin/Belly-Button-Biodiversity/blob/main/images/ID940.png)
+![ID944](https://github.com/MichaelaAnastasiaAustin/Belly-Button-Biodiversity/blob/main/images/ID994.png)
+
+
 All in all, we successfully visualized bacteria data for Roza and Improbable Beef. Furthermore, volunteers for the project are now able to identify the top 10 bacterial species in their belly buttons. That way, if Improbable Beef identifies a species as a candidate to manufacture synthetic beef, volunteers will be able to identify whether that species is found in their navel.
